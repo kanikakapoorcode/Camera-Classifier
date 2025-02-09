@@ -1,2 +1,2 @@
-# Camera-Classifier
-Camera Classifier using Python
+# camera-classifier
+A Python application that uses camera input to train a SVM to respond to specific actions.

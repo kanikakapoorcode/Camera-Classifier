@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+
+# Other temporary files
+*.log
+*.tmp
